@@ -1,32 +1,32 @@
-﻿Variable,Short description,Additional information in the Statistical Classification Manual: norad.no/statisticsmanual
-agreement_number,A unique ID of the agreement,No
-agreement_title,A short description/title of the agreement,Yes
-agreement_partner,"The agreement counterpart responsible for reporting according to requirements stated in the agreement. The agreement partner may be a multilateral organisation, government, NGO, private sector, etc.",Yes
-group_of_agreement_partner,A grouping variable of the variable agreement partner.,No
-implementing_partner,"The institution/person/organisation responsible for carrying out the agreement. This may be the agreement_partner, or another appointed institution.",Yes
-description_of_agreement,"An informative description of the main objectives and main activities of the agreement. The agreement description should justify the statistical coding, such as DAC sector codes, policy markers, SDG-targets etc.",Yes
-main_sector,The main sector in the recipient's economic or social structure the agreement is intended to promote. A sub-category of th variable main_sector.,Yes
-sub_sector,The sub sector in the recipient's economic or social structure the agreement is intended to promote.,Yes
-target_area,The target area of the recipient's economic or social structure the agreement is intended to promote. A grouping variable of the variable main_sector.,No
-recipient_country,The destination country of the agreement. Agreements with several recipient countries in the same region is registered as regional (e.g. Asia regional); multi-regional/global agreements are registered as Global unspecified; administration costs is registered as Administration.,Yes
-recipient_region,The destination region. A grouping variable based on the variable recipient_country.,No
-type_of_assistance,Type of assistance identifies the channel for the transfer of funds/aid/resources to the recipient/partner. There are four types of assistance: Administration; Bilateral; Earmarked to multilaterals; Core contributions to multilaterals; Triangular co-operation.,Yes
-policy_marker_environment,"The agreement is targeting enironmental objectives as a main objective (2), significant objective (1) or no objective (0).",Yes
-policy_marker_gender_equality,"The agreement is targeting gender equality objectives as a main objective (2), significant objective (1) or no objective (0).",Yes
-policy_marker_good_governance_and_human_rights,"The agreement is targeting good governance and human rights a main objective (2), significant objective (1) or no objective (0).",Yes
-policy_marker_biodiversity,"The agreement is targeting biodiversity objectives as a main objective (2), significant objective (1) or no objective (0).",Yes
-policy_marker_desertification,"The agreement is targeting desertification objectives as a main objective (2), significant objective (1) or no objective (0).",Yes
-policy_marker_climate_change_mitigation,"The agreement is targeting climate change mitigation objectives as a main objective (2), significant objective (1) or no objective (0).",Yes
-policy_marker_climate_change_adaptation,"The agreement is targeting climate change adaptation objectives as a main objective (2), significant objective (1) or no objective (0).",Yes
-policy_marker_reproductive_maternal_newborn_and_child_health,"The agreement is targeting reproductive, maternal, newborn and child health objectives as a main objective (2), significant objective (1) or no objective (0).",Yes
-policy_marker_research_and_experimental_development,"The agreement is targeting research and experimental development objectives as a main objective (2), significant objective (1) or no objective (0).",Yes
-policy_marker_inclusion_and_empowerment_of_persons_with_disabilities,"The agreement is targeting inclusion and empowerment of persons with disabilities objectives as a main objective (2), significant objective (1) or no objective (0).",Yes
-policy_marker_disaster_risk_reduction,"The agreement is targeting disaster risk reduction objectives as a main objective (2), significant objective (1) or no objective (0).",Yes
-focus_area_covid_19,The agreement is directly adressing the pandemic and its immediate and long-term consequences. (Yes or No),Yes
-sdg_focus,A list of the SDG target(s) the agreement is contributing to. Up to ten SDG targets and the first one is the main target (e.g. 1.1.; 1.a; 2.1;).,Yes
-extending_agency,The agency managing the agreement,No
-budget_post_chapter,The National budget chapter for the disbursement ,No
-budget_post_post,The National budget post for the disbursement ,No
-year,The year of the disbursement,No
-disbursements_1000_nok,Net ODA amount disbursed in NOK1000. Net amount is amount extended minus refunds.,No
-disbursements_1000_usd,Net ODA amount disbursed in USD 1000. Net amount is amount extended minus refunds.,No
+Variable,Short description,Nice to know,Additional information in the Statistical Classification Manual: norad.no/statisticsmanual
+agreement_number,A unique ID of the agreement,-,No
+agreement_title,A short description/title of the agreement,-,Yes
+agreement_partner,"The agreement counterpart responsible for reporting according to requirements stated in the agreement. The agreement partner may be a multilateral organisation, government, NGO, private sector, etc.",Systematically registered from 1999 and onwards,Yes
+group_of_agreement_partner,A grouping variable of the variable agreement partner.,Registered from 1999 and onwards,No
+implementing_partner,"The institution/person/organisation responsible for carrying out the agreement. This may be the agreement_partner, or another appointed institution.",Systematically registered from 1999 and onwards,Yes
+description_of_agreement,"An informative description of the main objectives and main activities of the agreement. The agreement description should justify the statistical coding, such as DAC sector codes, policy markers, SDG-targets etc.",-,Yes
+main_sector,The main sector in the recipient's economic or social structure the agreement is intended to promote. A sub-category of th variable main_sector.,"New sector classification system introduced in 1999, replacing the old classification.",Yes
+sub_sector,The sub sector in the recipient's economic or social structure the agreement is intended to promote.,"New sector classification system introduced in 1999, replacing the old classification.",Yes
+target_area,The target area of the recipient's economic or social structure the agreement is intended to promote. A grouping variable of the variable main_sector.,"New sector classification system introduced in 1999, replacing the old classification.",No
+recipient_country,The destination country of the agreement. Agreements with several recipient countries in the same region is registered as regional (e.g. Asia regional); multi-regional/global agreements are registered as Global unspecified; administration costs is registered as Administration.,-,Yes
+recipient_region,The destination region. A grouping variable based on the variable recipient_country.,-,No
+type_of_assistance,Type of assistance identifies the channel for the transfer of funds/aid/resources to the recipient/partner. There are four types of assistance: Administration; Bilateral; Earmarked to multilaterals; Core contributions to multilaterals; Triangular co-operation.,Systematically registered from 1985 and onwards,Yes
+policy_marker_environment,"The agreement is targeting enironmental objectives as a main objective (2), significant objective (1) or no objective (0).",From 1990 and onwards,Yes
+policy_marker_gender_equality,"The agreement is targeting gender equality objectives as a main objective (2), significant objective (1) or no objective (0).",From 1991 and onwards,Yes
+policy_marker_good_governance_and_human_rights,"The agreement is targeting good governance and human rights a main objective (2), significant objective (1) or no objective (0).",-,Yes
+policy_marker_biodiversity,"The agreement is targeting biodiversity objectives as a main objective (2), significant objective (1) or no objective (0).",Systematically registered from 2000 and onwards.,Yes
+policy_marker_desertification,"The agreement is targeting desertification objectives as a main objective (2), significant objective (1) or no objective (0).",Systematically registered from 2000 and onwards.,Yes
+policy_marker_climate_change_mitigation,"The agreement is targeting climate change mitigation objectives as a main objective (2), significant objective (1) or no objective (0).",Systematically registered from 2000 and onwards.,Yes
+policy_marker_climate_change_adaptation,"The agreement is targeting climate change adaptation objectives as a main objective (2), significant objective (1) or no objective (0).",Systematically registered from 2009 and onwards.,Yes
+policy_marker_reproductive_maternal_newborn_and_child_health,"The agreement is targeting reproductive, maternal, newborn and child health objectives as a main objective (2), significant objective (1) or no objective (0).",Systematically registered from 2014 and onwards.,Yes
+policy_marker_research_and_experimental_development,"The agreement is targeting research and experimental development objectives as a main objective (2), significant objective (1) or no objective (0).",Systematically registered from 2018 and onwards.,Yes
+policy_marker_inclusion_and_empowerment_of_persons_with_disabilities,"The agreement is targeting inclusion and empowerment of persons with disabilities objectives as a main objective (2), significant objective (1) or no objective (0).",Systematically registered from 2018 and onwards.,Yes
+policy_marker_disaster_risk_reduction,"The agreement is targeting disaster risk reduction objectives as a main objective (2), significant objective (1) or no objective (0).",Systematically registered from 2019 and onwards.,Yes
+focus_area_covid_19,The agreement is directly adressing the pandemic and its immediate and long-term consequences. (Yes or No),From 2020 and onwards,Yes
+sdg_focus,A list of the SDG target(s) the agreement is contributing to. Up to ten SDG targets and the first one is the main target (e.g. 1.1.; 1.a; 2.1;).,From 2020 and onwards,Yes
+extending_agency,The agency managing the agreement,-,No
+budget_post_chapter,The National budget chapter for the disbursement,From 1985 and onwards,No
+budget_post_post,The National budget post for the disbursement,From 1985 and onwards,No
+year,The year of the disbursement,-,No
+disbursements_1000_nok,Net ODA amount disbursed in NOK1000. Net amount is amount extended minus refunds.,-,No
+disbursements_1000_usd,Net ODA amount disbursed in USD 1000. Net amount is amount extended minus refunds.,-,No
