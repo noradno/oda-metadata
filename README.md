@@ -1,2 +1,2 @@
 # oda-metadata
-The file oda-metadata.csv gives a short description of the variables in the Norwegian Development Aid Statistics at aidresults.no/microdata.
+The file [oda-metadata.csv](https://github.com/noradno/oda-metadata/blob/main/oda-metadata.csv) gives a short description of the variables in the Norwegian Development Aid Statistics at [aidresults.no/microdata](https://resultater.norad.no/microdata). Additional information for many of the variables is provided in the [Statistical Classification Manual](https://www.norad.no/statisticsmanual).
