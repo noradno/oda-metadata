@@ -1,2 +1,4 @@
 # oda-metadata
 The file [oda-metadata.csv](https://github.com/noradno/oda-metadata/blob/main/oda-metadata.csv) gives a short description of the variables in the Norwegian Development Aid Statistics at [aidresults.no/microdata](https://resultater.norad.no/microdata). Additional information for many of the variables is provided in the [Statistical Classification Manual](https://www.norad.no/statisticsmanual).
+
+Norwegian aid statistics date as far back as 1960, however, the variables as they are today were not introduced until 1999. In general, using the time series after 1999 is usually fine, since more information about the projects are more readily available after 1999. Due to the changes in the variables, one must remember that not all information is present every year. If there is any uncertainty regarding the use of the database or individual variables, we ask that you contact Norad's section for statistics and analysis.
